@@ -1,5 +1,3 @@
-# retail-sales-analysis-excel-
-Retail sales analysis in Excel using pivot tables, formulas and a dashboard. 
 # Retail Sales Analysis using Excel
 
 Analysis of 1,000 retail transactions (2023) in Excel using
